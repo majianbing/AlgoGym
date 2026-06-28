@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #070b10;
+  color: #e5edf3;
+}
+
+button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+pre {
+  white-space: pre-wrap;
+}

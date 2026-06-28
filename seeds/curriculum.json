@@ -1,0 +1,68 @@
+[
+  {
+    "week": 1,
+    "theme": "Arrays & HashMap",
+    "problems": [
+      {"day": 1, "title": "Two Sum Pattern Drill", "pattern": "HashMap", "difficulty": "Easy"},
+      {"day": 2, "title": "Best Time Window", "pattern": "Arrays", "difficulty": "Easy"},
+      {"day": 3, "title": "Group By Signature", "pattern": "HashMap", "difficulty": "Medium"},
+      {"day": 4, "title": "Subarray Sum Counter", "pattern": "HashMap", "difficulty": "Medium"},
+      {"day": 5, "title": "Array Review Circuit", "pattern": "Arrays", "difficulty": "Medium"}
+    ]
+  },
+  {
+    "week": 2,
+    "theme": "Stack, Prefix Sum, Linked List",
+    "problems": [
+      {"day": 1, "title": "Valid Parentheses Drill", "pattern": "Stack", "difficulty": "Easy"},
+      {"day": 2, "title": "Daily Temperatures Pattern", "pattern": "Monotonic Stack", "difficulty": "Medium"},
+      {"day": 3, "title": "Range Sum Query", "pattern": "Prefix Sum", "difficulty": "Easy"},
+      {"day": 4, "title": "Reverse Linked List", "pattern": "Linked List", "difficulty": "Easy"},
+      {"day": 5, "title": "Fast Slow Pointer Review", "pattern": "Linked List", "difficulty": "Medium"}
+    ]
+  },
+  {
+    "week": 3,
+    "theme": "Binary Tree",
+    "problems": [
+      {"day": 1, "title": "Tree Traversal Warmup", "pattern": "DFS", "difficulty": "Easy"},
+      {"day": 2, "title": "Level Order Workout", "pattern": "BFS", "difficulty": "Medium"},
+      {"day": 3, "title": "Validate BST", "pattern": "Binary Tree", "difficulty": "Medium"},
+      {"day": 4, "title": "Path Sum Review", "pattern": "DFS", "difficulty": "Medium"},
+      {"day": 5, "title": "Lowest Common Ancestor", "pattern": "Binary Tree", "difficulty": "Medium"}
+    ]
+  },
+  {
+    "week": 4,
+    "theme": "Graphs & Dijkstra",
+    "problems": [
+      {"day": 1, "title": "Graph BFS Basics", "pattern": "Graph BFS", "difficulty": "Medium"},
+      {"day": 2, "title": "Number of Components", "pattern": "Graph DFS", "difficulty": "Medium"},
+      {"day": 3, "title": "Topological Ordering", "pattern": "Topological Sort", "difficulty": "Medium"},
+      {"day": 4, "title": "Shortest Path Drill", "pattern": "Dijkstra", "difficulty": "Medium"},
+      {"day": 5, "title": "Graph Review Circuit", "pattern": "Graphs", "difficulty": "Medium"}
+    ]
+  },
+  {
+    "week": 5,
+    "theme": "Dynamic Programming & Greedy",
+    "problems": [
+      {"day": 1, "title": "Climbing Stairs State", "pattern": "DP", "difficulty": "Easy"},
+      {"day": 2, "title": "House Robber Transition", "pattern": "DP", "difficulty": "Medium"},
+      {"day": 3, "title": "Longest Increasing Subsequence", "pattern": "DP", "difficulty": "Medium"},
+      {"day": 4, "title": "Interval Scheduling", "pattern": "Greedy", "difficulty": "Medium"},
+      {"day": 5, "title": "DP Review Circuit", "pattern": "DP", "difficulty": "Medium"}
+    ]
+  },
+  {
+    "week": 6,
+    "theme": "Backtracking, Heap, Trie, Binary Search",
+    "problems": [
+      {"day": 1, "title": "Subsets Backtracking", "pattern": "Backtracking", "difficulty": "Medium"},
+      {"day": 2, "title": "Top K Elements", "pattern": "Heap", "difficulty": "Medium"},
+      {"day": 3, "title": "Prefix Lookup", "pattern": "Trie", "difficulty": "Medium"},
+      {"day": 4, "title": "Search Answer Space", "pattern": "Binary Search", "difficulty": "Medium"},
+      {"day": 5, "title": "Final Mixed Review", "pattern": "Mixed", "difficulty": "Medium"}
+    ]
+  }
+]

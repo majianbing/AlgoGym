@@ -21,3 +21,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### AlgoGym ###
+.env
+data/
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+*.pyc
